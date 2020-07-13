@@ -1,3 +1,7 @@
 # ICAN
-InternalandContextualAttentionNetworkforCold-startMulti-channel MatchinginRecommendation
-Real-world integrated personalized recommendationsystemsusuallydealwithmillionsofheterogeneous items. It is extremely challenging to conduct full corpus retrieval with complicated models due to the tremendous computation costs. Hence, most large-scalerecommendationsystemsconsistoftwo modules: a multi-channel matching module to efﬁciently retrieve a small subset of candidates, and a ranking module for precise personalized recommendation. However, multi-channel matching usually suffers from cold-start problems when adding new channels or new data sources. To solve this issue, we propose a novel Internal and contextual attentionnetwork(ICAN),whichhighlightschannelspeciﬁccontextualinformationandfeatureﬁeldinteractions between multiple channels. In experiments, we conduct both ofﬂine and online evaluations with case studies on a real-world integrated recommendation system. The signiﬁcant improvements conﬁrm the effectiveness and robustness of ICAN, especially for cold-start channels. Currently,ICANhasbeendeployedonWeChatTopStories used by millions of users.
+Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation (IJCAI-2020)
+
+# CITE
+If the codes help you, please cite the following paper:
+
+Ruobing Xie*, Zhijie Qiu*, Jun Rao, Yi Liu, Bo Zhang, Leyu Lin. Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation. The 29th International Joint Conference on Artificial Intelligence (IJCAI'20). Long paper.  (* indicates equal contribution).
